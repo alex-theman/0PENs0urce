@@ -1,3 +1,2 @@
 import pygame
-print dir(pygame)
-print dir()
+print hello
